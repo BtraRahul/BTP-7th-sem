@@ -32,7 +32,7 @@ The project demonstrates the preprocessing pipeline, model training, evaluation,
 ---
 
 ## **Dataset**
-- Source: [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets)
+- Source: [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 - **Classes**:  
    - Glioma Tumor  
    - Meningioma Tumor  
