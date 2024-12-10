@@ -1,5 +1,3 @@
-Here’s a well-structured **README** file template for your GitHub repository that clearly explains your **Brain Tumor Classification using Deep Learning** project.
-
 ---
 
 # **Brain Tumor Classification Using Deep Learning**
